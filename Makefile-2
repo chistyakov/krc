@@ -1,0 +1,3 @@
+CC=gcc
+temperature: temperature_reverse.c
+	$(CC) -o temperature_reverse temperature_reverse.c
