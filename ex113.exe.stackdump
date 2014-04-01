@@ -1,9 +1,0 @@
-Exception: STATUS_ACCESS_VIOLATION at eip=61126701
-eax=0000002A ebx=00402099 ecx=00000001 edx=0000002A esi=00000000 edi=0000002A
-ebp=0028A8D8 esp=0028A8D4 program=C:\cygwin\home\teamdevelopment\testc\ex113.exe, pid 6496, thread main
-cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
-Stack trace:
-Frame     Function  Args
-0028A8D8  61126701 (0000002A, 0028A9A0, 00402099, 00000001)
-0028AA2C  61130D02 (0040209D, 00000001, 0028AB7C, 0028AA10)
-End of stack trace
