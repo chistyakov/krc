@@ -1,0 +1,17 @@
+a1
+b   1
+ab  1
+abc 1
+abcd    1
+abcde   1
+abcdef  1
+abcdefg 1
+abcdefgh    1
+abcdefghi   1
+abcdefghij  1
+abcdefghijk 1
+abcdefghijkl    1
+abcdefghijklm   1
+abcdefghijklmn  1
+abcdefghijklmno 1
+abcdefghijklmnop    1

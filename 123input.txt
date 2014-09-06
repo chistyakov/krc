@@ -1,0 +1,18 @@
+/o/
+aaaaa
+bbbbbbbb
+//cccc
+// ddddddd
+eeeee //eee
+eeeee// eee
+eeeeee//ee
+/f/
+f//
+gggg
+
+/*
+hello!
+*/
+how are /* you */ ?
+how you do/*in*/?
+///* hoho

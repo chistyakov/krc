@@ -1,0 +1,37 @@
+input string
+input: a
+a
+input string
+input: a 
+a
+input string
+input: a   
+a
+input string
+input: a   
+a
+input string
+input: a    
+a
+input string
+input: a  
+a
+input string
+input: a       
+a
+input string
+input:  
+
+input string
+input:     
+
+input string
+input:  a
+ a
+input string
+input:     a
+    a
+input string
+input:     a
+    a
+input string

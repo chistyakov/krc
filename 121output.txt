@@ -1,0 +1,22 @@
+length: 1tabs: 0 spaces: 1
+ 
+length: 2tabs: 0 spaces: 2
+  
+length: 3tabs: 0 spaces: 3
+   
+length: 4tabs: 1 spaces: 0
+	
+length: 5tabs: 1 spaces: 1
+	 
+length: 6tabs: 1 spaces: 2
+	  
+length: 7tabs: 1 spaces: 3
+	   
+length: 8tabs: 2 spaces: 0
+		
+length: 9tabs: 2 spaces: 1
+		 
+length: 1tabs: 0 spaces: 1
+ 
+length: 0tabs: 0 spaces: 0
+
